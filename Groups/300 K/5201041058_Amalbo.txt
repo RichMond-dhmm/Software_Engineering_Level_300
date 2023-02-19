@@ -1,0 +1,78 @@
+1.A software process model is a digital or hand-written model that details the software development process. Process models help provide a visual representation of the development process for both the team and the customer to review.
+The six steps are;
+1. Waterfall
+The waterfall software process model is one of the simplest and most effective software process models. The waterfall model displays each step of the development process as a separate, sequential step so that it's easy to follow. You can view the development process from beginning to end with a glance and adjust steps as the development process continues.
+
+The waterfall process model works well for simple software development projects that likely won't change significantly during the development process. The team understands each parameter thoroughly and can work through the development phases quickly.
+
+Related: What Is Performance Testing? (With Types and Importance)
+2. Prototyping
+Prototyping is another common type of software process model. Prototyping involves creating a working design quickly for the customer to ensure the team is meeting the customer's parameters.
+
+This allows the development team to troubleshoot and problems with the customer before continuing to full development and provides the customer with a visual of what the final product might look like.
+
+Prototyping is fast and efficient and helps solidify the team's design plans and align customer expectations. Customers typically oversee the entire prototyping process. The process is useful when customers aren't certain what the final deliverable should be.
+
+Related: What Is Continuous Deployment? Definition, Pros and Cons
+3. Incremental
+Incremental development is the process of dividing the development phases into various sections based on user feedback. The team develops in increments, developing one part of the software and submitting it to user testing and feedback before moving on to the next phase in the process. This allows the team to identify issues or challenges early on and keep the customer's parameters aligned with the actual development.
+
+This also allows the team to work closely with their customers to learn more about what they want from their software. This method benefits development teams who are creating more complex software programs that need frequent usability testing.
+
+Related: 10 Reasons To Be a Software Developer
+4. Spiral
+The spiral model is similar to the waterfall model but includes risk assessment. These assessments help the team identify potential risks during the project's development, allowing for faster response times and more realistic expectations for the customer during development.
+
+The model includes an X-Y axis grid with a spiral shape moving outward from the central intersection of the X and Y-axis. Within each "loop" is a phase of the project, which can include parameters, expectations and risks. This method benefits teams who are working on high-risk projects.
+
+Related: 14 Types of Software Development Documentation (Plus Tips)
+5. Iterative
+The iterative model is similar to the incremental model, except that individual components of the software receive feedback and testing before the team develops the other components.
+
+The team might build the initial project quickly and release it to the customer for feedback, working on individual components to ensure they meet the customer's expectations. Iterative development typically consists of four phases:
+
+Inception: The team establishes a business case for the system.
+Elaboration: The team identifies risk, develops a project plan and creates system architecture.
+Construction: The team develops parallel components.
+Transition: The team delivers the system into its operating environment for customer review.
+Related: How To Become a Software Development Manager
+6. RAD model
+The RAD model, or rapid application development model, combines rapid prototyping with incremental development. This helps provide better feedback for the developers with prototypes for the customer and development at an incremental rate.
+Importants of process modeling are;
+1. Create the new logic for problem solving based on open-ended programming environments for high performance computer systems
+
+2. Develop a formal methodology that guides us toward the construction of correct and portable
+parallel programs, and adopt an openness to radical and innovative alternatives
+
+3. Design a programming language that incorporates a unifying intuitive model of parallel computation, and which provides a coherent vehicle for the natural description of parallel programs
+
+4. Devise and construct software tools that resonate with the methodology and facilitate a flexible, supportive environment
+
+5. Introduce widely available, substantial educational opportunities in parallel programming that will create a pool of individuals with the experience and intuition necessary to work effectively in this setting.
+ Q2.Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+The key difference between Agile vs. Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel. 
+Advantages and Disadvantages of Waterfall Model
+Advantages	Dis-Advantages
+Before the next phase of development, each phase must be completed	Error can be fixed only during the phase
+Suited for smaller projects where requirements are well defined	It is not desirable for complex project where requirement changes frequently.
+Q3.Rational Unified Process is an approach for software engineering for delegating activities and responsibilities inside a software development organization. Its primary purpose is to enable the creation of high-quality software that satisfies the end user's requirements within a predictable budget and timeframe. 
+The Rational Unified Proces Methodology (RUP) is an agile software development method, in which the life cycle of a project, or the development of software, is divided into four phases. Various activities take place during these phases: modelling, analysis and design, implementation, testing and application.
+Advantages of RUP
+RUP can provide software development or design teams an array of advantages, including: 
+
+Offering thorough documentation: The RUP process involves carefully documenting each step, which can be highly beneficial for collaborative projects.
+Enhancing risk management practices: RUP can help software individuals proactively respond to potential software challenges. This can improve risk management and troubleshooting efforts. 
+Giving regular feedback to stakeholders: A vital part of the RUP process is giving consistent updates to project stakeholders. These stakeholders may range from other software individuals involved in the project to company leaders or vendors.
+Reducing total project time: RUP may allow the software development team to lower their time in both the development and integration stages.
+Determining working elements early on in the project: With RUP, project stakeholders may notice potential software issues earlier on during the design or development processes. This can make mitigating or solving challenges easier before they become more complex.
+Related: 24 Open-Source Data Modeling Tools for Information Systems
+Potential drawbacks of RUP
+Using RUP can come with some possible disadvantages. If you or your team plans to use RUP, it's important to prepare for these potential issues so you can proactively navigate challenges. 
+
+Following are some of the potential drawbacks of RUP, plus ideas about how to overcome them: 
+
+Complexity of process: Since RUP is a complicated procedure, successfully performing it requires software team members with great expertise. If some of the individuals on your software team are new to the field, it might be easier to choose a different software development process.
+Cost and time: The amount of documentation required for RUP can be time-consuming and expensive. Software teams with smaller budgets might benefit from choosing a more cost-efficient approach for their project.
+Challenge of using it for projects with multiple development streams: RUP may cause confusion during the testing stage for larger projects involving multiple components and software teams. Because of its emphasis on ongoing integration, those working on projects with multiple development streams may want to either slow down the RUP process or look for another development procedure.
+Upgrade your resume
+Showcase your skills with help from a resume expert.
